@@ -92,6 +92,7 @@ public class Menu {
 		}
 				
 		private static void actualizaPrimeraOferta(Scanner sc) throws SQLException {
+			ProdutoDAO.actualizar(1);
 		
 	}
 

@@ -45,7 +45,7 @@ public class ProdutoDAO {
 
 	
 
-	public void actualizarPrimeraOferta (Produto produto) throws SQLException {
+	public void actualizar (Produto produto) throws SQLException {
 
 
 
