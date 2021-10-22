@@ -38,7 +38,7 @@ public class ProdutoDAO {
 				
 				while(rst.next()) {
 					Integer id = rst.getInt(1);						
-					System.out.println("\nO id --> " + id + " foi criado e salvo com sucesso!!!");
+					System.out.println( id + " fue creado ");
 				}
 			}
 		
